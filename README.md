@@ -1,8 +1,8 @@
-# 📦 Proyecto POSTMAIL - API para Gestión de Envíos
+# 📦 POSTMAIL - API para Gestión de Envíos
 
 API desarrollada para POSTMAIL, una empresa de gestión de envíos. Permite registrar usuarios con planes de crédito, gestionar productos para envío, y consultar/eliminar envíos. Utiliza MongoDB como base de datos y Express.js para la estructura del servidor y manejo de rutas.
 
-## 🔗 Endpoints de la API
+## 🔗 Especificaciones de la API
 
 ### 1. Crear un usuario con créditos según el plan
 - **Método:** `POST`  
